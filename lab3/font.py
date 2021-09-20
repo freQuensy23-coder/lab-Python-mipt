@@ -1,7 +1,7 @@
-from font_config import *
+from lab3.font_config import *
 from turtle import Vec2D as Vec
 import turtle
-import font_loader
+from lab3 import font_loader
 
 l1 = [(0, 1), (1, 2), (1, 0)]
 l2 = [(0, 2), (1, 2), (1, 1), (0, 0), (1, 0)]
