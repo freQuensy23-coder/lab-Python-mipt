@@ -1,2 +1,2 @@
-from font_config import *
-from font import *
+font_size = 50
+margin = 15
